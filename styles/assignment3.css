@@ -247,7 +247,7 @@ button {
 .project img {
     display: block;
     width: 375px;
-    height: auto;
+    height: 375px;
     object-fit: contain;
     margin-bottom: 10px;
     transition: transform 0.3s ease;
@@ -286,7 +286,7 @@ button {
 }
 
 .project img.magic-ball {
-    width: 480px;
+    height: 375px;
 }
 
 .css-animation {
@@ -295,6 +295,7 @@ button {
     font-size: 24px;
     margin: 0;
     min-width: 375px;
+    min-height: 375px;
     text-align: center;
 }
 
@@ -305,7 +306,7 @@ button {
     margin: 0;
     min-width: 375px;
     text-align: center;
-    padding-top: 59px;
+
 }
 
 .project-section h3 {
