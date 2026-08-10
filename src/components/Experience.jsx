@@ -55,7 +55,7 @@ export default function Experience() {
   return (
     <section id="experience" className="section-container">
       <div className="section-header">
-        <span className="section-tag">// 04. MILESTONES & EXPERIENCE</span>
+        <span className="section-tag">Milestones & Experience</span>
         <h2 className="section-title">Timeline & Engineering Journey</h2>
         <p className="section-subtitle">
           A summary of project leadership, technical roles, educational foundation, and continuous learning achievements.
